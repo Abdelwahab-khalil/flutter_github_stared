@@ -14,7 +14,7 @@ To run this project in your device you shoud
 
 3- Run : flutter pub get // for get all packages used in this project
 
-4. Run : flutter run // make sure that your phone is connected or use an android emulator
+4- Run : flutter run // make sure that your phone is connected or use an android emulator
 
 A few resources to get you started if this is your first Flutter project:
 
